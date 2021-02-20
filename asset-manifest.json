@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/planets_assignment/static/css/main.b1a45285.chunk.css",
+    "main.js": "/planets_assignment/static/js/main.9316d32e.chunk.js",
+    "main.js.map": "/planets_assignment/static/js/main.9316d32e.chunk.js.map",
+    "runtime-main.js": "/planets_assignment/static/js/runtime-main.af938ad1.js",
+    "runtime-main.js.map": "/planets_assignment/static/js/runtime-main.af938ad1.js.map",
+    "static/js/2.9b20eed0.chunk.js": "/planets_assignment/static/js/2.9b20eed0.chunk.js",
+    "static/js/2.9b20eed0.chunk.js.map": "/planets_assignment/static/js/2.9b20eed0.chunk.js.map",
+    "static/js/3.bc4093f3.chunk.js": "/planets_assignment/static/js/3.bc4093f3.chunk.js",
+    "static/js/3.bc4093f3.chunk.js.map": "/planets_assignment/static/js/3.bc4093f3.chunk.js.map",
+    "index.html": "/planets_assignment/index.html",
+    "static/css/main.b1a45285.chunk.css.map": "/planets_assignment/static/css/main.b1a45285.chunk.css.map",
+    "static/js/2.9b20eed0.chunk.js.LICENSE.txt": "/planets_assignment/static/js/2.9b20eed0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/planets_assignment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af938ad1.js",
+    "static/js/2.9b20eed0.chunk.js",
+    "static/css/main.b1a45285.chunk.css",
+    "static/js/main.9316d32e.chunk.js"
+  ]
+}
